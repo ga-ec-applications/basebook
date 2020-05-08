@@ -12,5 +12,3 @@ this code is been modified
 
 
 testing with cherry-pick
-
-this is a test file
