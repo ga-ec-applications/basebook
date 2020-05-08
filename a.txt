@@ -1,14 +1,9 @@
-hi 
-this
-is
-a
+hi
+
+this is a test file
+
+testing for cherry pick
 
 
-modifying the file in master branch
-
-modifying after pushing into Remote Repo
-
-this code is been modified
 
 
-testing with cherry-pick
