@@ -2,7 +2,3 @@ hi
 this
 is
 b
-
-
-tseting the stash
-list of stash
