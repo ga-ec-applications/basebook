@@ -1,6 +1,0 @@
-hi
-this
-is
-b
-
-this is a updated file
